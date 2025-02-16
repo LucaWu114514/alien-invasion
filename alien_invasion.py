@@ -7,7 +7,6 @@ from settings import Settings
 from ship import Ship
 from  time import sleep
 from bullet import Bullet
-from click_bullet import ClickBullet
 from alien import Alien
 
 from game_stats import GameStats
